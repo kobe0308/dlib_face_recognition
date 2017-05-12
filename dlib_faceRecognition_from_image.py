@@ -16,7 +16,7 @@ def main(image):
     dets = detector(image,1)
     shape = sp(image,dets[0])
     face_features = np.zeros((1,128))
-    
+    print 'start face recognition' 
     start = time.time()
     face_features = faceRec.compute_face_descriptor(image,shape)
     done = time.time()
