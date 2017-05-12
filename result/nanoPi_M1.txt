@@ -1,0 +1,104 @@
+=============================
+Processor	: ARMv7 Processor rev 5 (v7l)
+processor	: 0
+BogoMIPS	: 2285.71
+
+processor	: 1
+BogoMIPS	: 2285.71
+
+processor	: 2
+BogoMIPS	: 2285.71
+
+processor	: 3
+BogoMIPS	: 2285.71
+
+Features	: swp half thumb fastmult vfp edsp thumbee neon vfpv3 tls vfpv4 idiva idivt 
+CPU implementer	: 0x41
+CPU architecture: 7
+CPU variant	: 0x0
+CPU part	: 0xc07
+CPU revision	: 5
+
+Hardware	: sun8i
+Revision	: 0000
+Serial		: 04005035c218302c07ce
+===================================
+MemTotal:        1024456 kB
+MemFree:          254928 kB
+Buffers:           24000 kB
+Cached:           420856 kB
+SwapCached:        31368 kB
+Active:           256392 kB
+Inactive:         402812 kB
+Active(anon):      36504 kB
+Inactive(anon):   184528 kB
+Active(file):     219888 kB
+Inactive(file):   218284 kB
+Unevictable:           0 kB
+Mlocked:               0 kB
+HighTotal:        270336 kB
+HighFree:          34748 kB
+LowTotal:         754120 kB
+LowFree:          220180 kB
+SwapTotal:        524284 kB
+SwapFree:         404992 kB
+Dirty:                44 kB
+Writeback:             0 kB
+AnonPages:        190940 kB
+Mapped:            52832 kB
+Shmem:              6684 kB
+Slab:              80820 kB
+SReclaimable:      69144 kB
+SUnreclaim:        11676 kB
+KernelStack:        2368 kB
+PageTables:         4808 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     1036512 kB
+Committed_AS:    1980816 kB
+VmallocTotal:     245760 kB
+VmallocUsed:       17000 kB
+VmallocChunk:     212992 kB
+===================================
+MemTotal:        1024456 kB
+MemFree:          255020 kB
+Buffers:           24024 kB
+Cached:           420864 kB
+SwapCached:        31368 kB
+Active:           256436 kB
+Inactive:         402836 kB
+Active(anon):      36540 kB
+Inactive(anon):   184528 kB
+Active(file):     219896 kB
+Inactive(file):   218308 kB
+Unevictable:           0 kB
+Mlocked:               0 kB
+HighTotal:        270336 kB
+HighFree:          34784 kB
+LowTotal:         754120 kB
+LowFree:          220236 kB
+SwapTotal:        524284 kB
+SwapFree:         404992 kB
+Dirty:                24 kB
+Writeback:             0 kB
+AnonPages:        190996 kB
+Mapped:            52812 kB
+Shmem:              6684 kB
+Slab:              80824 kB
+SReclaimable:      69136 kB
+SUnreclaim:        11688 kB
+KernelStack:        2368 kB
+PageTables:         4812 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     1036512 kB
+Committed_AS:    1980820 kB
+VmallocTotal:     245760 kB
+VmallocUsed:       17000 kB
+VmallocChunk:     212992 kB
+=============================================
+test.jpg
+start face recognition
+4.38278317451
