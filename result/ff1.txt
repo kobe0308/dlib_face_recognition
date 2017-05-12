@@ -1,0 +1,244 @@
+
+
+
+processor	: 0
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 94
+model name	: Intel(R) Core(TM) i5-6400 CPU @ 2.70GHz
+stepping	: 3
+microcode	: 0xa6
+cpu MHz		: 996.046
+cache size	: 6144 KB
+physical id	: 0
+siblings	: 4
+core id		: 0
+cpu cores	: 4
+apicid		: 0
+initial apicid	: 0
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc aperfmperf eagerfpu pni pclmulqdq dtes64 monitor ds_cpl vmx est tm2 ssse3 fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch ida arat pln pts dtherm hwp hwp_noitfy hwp_act_window hwp_epp intel_pt tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid mpx rdseed adx smap clflushopt xsaveopt xsavec xgetbv1
+bugs		:
+bogomips	: 5421.61
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 39 bits physical, 48 bits virtual
+power management:
+
+processor	: 1
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 94
+model name	: Intel(R) Core(TM) i5-6400 CPU @ 2.70GHz
+stepping	: 3
+microcode	: 0xa6
+cpu MHz		: 831.410
+cache size	: 6144 KB
+physical id	: 0
+siblings	: 4
+core id		: 1
+cpu cores	: 4
+apicid		: 2
+initial apicid	: 2
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc aperfmperf eagerfpu pni pclmulqdq dtes64 monitor ds_cpl vmx est tm2 ssse3 fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch ida arat pln pts dtherm hwp hwp_noitfy hwp_act_window hwp_epp intel_pt tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid mpx rdseed adx smap clflushopt xsaveopt xsavec xgetbv1
+bugs		:
+bogomips	: 5421.61
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 39 bits physical, 48 bits virtual
+power management:
+
+processor	: 2
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 94
+model name	: Intel(R) Core(TM) i5-6400 CPU @ 2.70GHz
+stepping	: 3
+microcode	: 0xa6
+cpu MHz		: 1004.800
+cache size	: 6144 KB
+physical id	: 0
+siblings	: 4
+core id		: 2
+cpu cores	: 4
+apicid		: 4
+initial apicid	: 4
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc aperfmperf eagerfpu pni pclmulqdq dtes64 monitor ds_cpl vmx est tm2 ssse3 fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch ida arat pln pts dtherm hwp hwp_noitfy hwp_act_window hwp_epp intel_pt tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid mpx rdseed adx smap clflushopt xsaveopt xsavec xgetbv1
+bugs		:
+bogomips	: 5421.61
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 39 bits physical, 48 bits virtual
+power management:
+
+processor	: 3
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 94
+model name	: Intel(R) Core(TM) i5-6400 CPU @ 2.70GHz
+stepping	: 3
+microcode	: 0xa6
+cpu MHz		: 839.742
+cache size	: 6144 KB
+physical id	: 0
+siblings	: 4
+core id		: 3
+cpu cores	: 4
+apicid		: 6
+initial apicid	: 6
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc aperfmperf eagerfpu pni pclmulqdq dtes64 monitor ds_cpl vmx est tm2 ssse3 fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch ida arat pln pts dtherm hwp hwp_noitfy hwp_act_window hwp_epp intel_pt tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid mpx rdseed adx smap clflushopt xsaveopt xsavec xgetbv1
+bugs		:
+bogomips	: 5421.61
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 39 bits physical, 48 bits virtual
+power management:
+
+================================
+MemTotal:       65941464 kB
+MemFree:         8680168 kB
+MemAvailable:   63610736 kB
+Buffers:          738284 kB
+Cached:         52870828 kB
+SwapCached:       322232 kB
+Active:         10276676 kB
+Inactive:       44988916 kB
+Active(anon):     534244 kB
+Inactive(anon):  1137832 kB
+Active(file):    9742432 kB
+Inactive(file): 43851084 kB
+Unevictable:          32 kB
+Mlocked:              32 kB
+SwapTotal:      67060732 kB
+SwapFree:       65975252 kB
+Dirty:               144 kB
+Writeback:             0 kB
+AnonPages:       1597752 kB
+Mapped:           208896 kB
+Shmem:             15600 kB
+Slab:            1744820 kB
+SReclaimable:    1590468 kB
+SUnreclaim:       154352 kB
+KernelStack:        8416 kB
+PageTables:        36812 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:    100031464 kB
+Committed_AS:    7326008 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:      431164 kB
+VmallocChunk:   34358947836 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:    366592 kB
+CmaTotal:              0 kB
+CmaFree:               0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+DirectMap4k:      755524 kB
+DirectMap2M:    42199040 kB
+DirectMap1G:    24117248 kB
+================================
+Number of platforms:				 1
+  Platform Profile:				 FULL_PROFILE
+  Platform Version:				 OpenCL 1.2 CUDA 7.5.23
+  Platform Name:				 NVIDIA CUDA
+  Platform Vendor:				 NVIDIA Corporation
+  Platform Extensions:				 cl_khr_byte_addressable_store cl_khr_icd cl_khr_gl_sharing cl_nv_compiler_options cl_nv_device_attribute_query cl_nv_pragma_unroll cl_nv_copy_opts 
+
+
+  Platform Name:				 NVIDIA CUDA
+Number of devices:				 1
+  Device Type:					 CL_DEVICE_TYPE_GPU
+  Device ID:					 4318
+  Max compute units:				 22
+  Max work items dimensions:			 3
+    Max work items[0]:				 1024
+    Max work items[1]:				 1024
+    Max work items[2]:				 64
+  Max work group size:				 1024
+  Preferred vector width char:			 1
+  Preferred vector width short:			 1
+  Preferred vector width int:			 1
+  Preferred vector width long:			 1
+  Preferred vector width float:			 1
+  Preferred vector width double:		 1
+  Native vector width char:			 1
+  Native vector width short:			 1
+  Native vector width int:			 1
+  Native vector width long:			 1
+  Native vector width float:			 1
+  Native vector width double:			 1
+  Max clock frequency:				 1228Mhz
+  Address bits:					 64
+  Max memory allocation:			 1610530816
+  Image support:				 Yes
+  Max number of images read arguments:		 256
+  Max number of images write arguments:		 16
+  Max image 2D width:				 16384
+  Max image 2D height:				 16384
+  Max image 3D width:				 4096
+  Max image 3D height:				 4096
+  Max image 3D depth:				 4096
+  Max samplers within kernel:			 32
+  Max size of kernel argument:			 4352
+  Alignment (bits) of base address:		 4096
+  Minimum alignment (bytes) for any datatype:	 128
+  Single precision floating point capability
+    Denorms:					 Yes
+    Quiet NaNs:					 Yes
+    Round to nearest even:			 Yes
+    Round to zero:				 Yes
+    Round to +ve and infinity:			 Yes
+    IEEE754-2008 fused multiply-add:		 Yes
+  Cache type:					 Read/Write
+  Cache line size:				 128
+  Cache size:					 360448
+  Global memory size:				 6442123264
+  Constant buffer size:				 65536
+  Max number of constant args:			 9
+  Local memory type:				 Local
+  Local memory size:				 49152
+  Error correction support:			 0
+  Unified memory for Host and Device:		 0
+  Profiling timer resolution:			 1000
+  Device endianess:				 Little
+  Available:					 Yes
+  Compiler available:				 Yes
+  Execution capabilities:				 
+    Execute OpenCL kernels:			 Yes
+    Execute native function:			 No
+  Queue properties:				 
+    Out-of-Order:				 Yes
+    Profiling :					 Yes
+  Platform ID:					 0x1513560
+  Name:						 GeForce GTX 980 Ti
+  Vendor:					 NVIDIA Corporation
+  Device OpenCL C version:			 OpenCL C 1.2 
+  Driver version:				 352.63
+  Profile:					 FULL_PROFILE
+  Version:					 OpenCL 1.2 CUDA
+  Extensions:					 cl_khr_byte_addressable_store cl_khr_icd cl_khr_gl_sharing cl_nv_compiler_options cl_nv_device_attribute_query cl_nv_pragma_unroll cl_nv_copy_opts  cl_khr_global_int32_base_atomics cl_khr_global_int32_extended_atomics cl_khr_local_int32_base_atomics cl_khr_local_int32_extended_atomics cl_khr_fp64 
+
+
+test.jpg
+start face recognition
+0.211732149124
