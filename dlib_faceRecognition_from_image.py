@@ -3,7 +3,7 @@ import os
 import dlib
 import numpy as np
 from skimage import io
-
+import time
 
 
 sp = dlib.shape_predictor('shape_predictor_68_face_landmarks.dat')
@@ -16,9 +16,12 @@ def main(image):
     dets = detector(image,1)
     shape = sp(image,dets[0])
     face_features = np.zeros((1,128))
+    
+    start = time.time()
     face_features = faceRec.compute_face_descriptor(image,shape)
-
-    print face_features
+    done = time.time()
+    print(done-start)
+   	#print face_features
 
 if __name__ == "__main__":
 
